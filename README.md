@@ -17,8 +17,8 @@ Follows the UK convention of traffic lights performing the following sequence:
 4. Amber (stop when possible)
 5. Red (stop)
 
+Randomised times on green and red, loop the sequence thrice.
+
 Very hacky, should modularise each step...
 
-Firstly consider the time waiting on red+amber and amber, there may be a standard?
-
-Randomised times on green and red, loop the sequence thrice.
+Should consider the time waiting on red+amber and amber, there may be a standard?
